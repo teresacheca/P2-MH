@@ -1,0 +1,68 @@
+#!/bin/bash
+
+echo '---------------------------------MDG-a---------------------------------'
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-a_1_n500_m50.txt' 7833.833
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-a_2_n500_m50.txt' 7771,66162
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-a_3_n500_m50.txt' 7759,35986
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-a_4_n500_m50.txt' 7770,2417
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-a_5_n500_m50.txt' 7755,23096
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-a_6_n500_m50.txt' 7773,70996
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-a_7_n500_m50.txt' 7771,73096
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-a_8_n500_m50.txt' 7750,88135
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-a_9_n500_m50.txt' 7770,0708
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-a_10_n500_m50.txt' 7780,35059
+
+
+echo '---------------------------------MDG-b---------------------------------'
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-b_21_n2000_m200.txt' 11299894,85774
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-b_22_n2000_m200.txt' 11286775,58894
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-b_23_n2000_m200.txt' 11299940,86847
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-b_24_n2000_m200.txt' 11290874,15963
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-b_25_n2000_m200.txt' 11296066,6607
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-b_26_n2000_m200.txt' 11292295,88629
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-b_27_n2000_m200.txt' 11305676,84757
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-b_28_n2000_m200.txt' 11279916,05595
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-b_29_n2000_m200.txt' 11297188,33456
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-b_30_n2000_m200.txt' 11296414,92982
+
+echo '---------------------------------MDG-c---------------------------------'
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-c_1_n3000_m300.txt' 24884110
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-c_2_n3000_m300.txt' 24905330
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-c_8_n3000_m400.txt' 43437261
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-c_9_n3000_m400.txt' 43437861
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-c_10_n3000_m400.txt' 43476251
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-c_13_n3000_m500.txt' 67014051
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-c_14_n3000_m500.txt' 66979606
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-c_15_n3000_m500.txt' 66992877
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-c_19_n3000_m600.txt' 95633549
+
+./pracs_exe '../Instancias y Tablas MDP 2020-21/MDG-c_20_n3000_m600.txt' 95643586
+
